@@ -93,7 +93,7 @@ let llAPIError = false
 
 async function jdGlobal() {
   try {
-    await richManIndex()
+    //await richManIndex()
     await wheelsHome()
     await apTaskList()
     await wheelsHome()
